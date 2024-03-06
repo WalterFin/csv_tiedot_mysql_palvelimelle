@@ -1,0 +1,4 @@
+Tämä ohjelma on kouluprojekti, jossa laskujen tiedot ja erittely haetaan omista csv-tiedostosta ja tallenetaan mysql-tietokantaan.
+Robot Frameworkin ensinmäinen testitapaus hakee laskujen tiedot csv-tiedostosta ja tallentaa ne omaan tauluun mysql:ssa.
+Toinen testitapaus hakee laskujen erittelyn csv-tiedostosta ja tallentaa tiedot omaan tauluun mysql:ssa.
+Kolmas testitapaus käyttää python funktiota tarkastamaan laskujen oikeellisuuden mysql:ssa ja päivittää tarvittaessa tiedot.
